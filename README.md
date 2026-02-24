@@ -1,5 +1,7 @@
 # React Weather App
 
+# ARCHIVED: OLD PROJECT 
+
 ### 📚 School project <br>
 
 Weather app in React with data from the [OpenWeatherMap API](https://openweathermap.org/api "WeatherAPI - OpenWeatherMap")
